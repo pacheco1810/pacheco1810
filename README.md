@@ -91,7 +91,6 @@ JavaScript Track – Exercism
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/pacheco1810/pacheco1810/output/github-contribution-grid-snake.svg)
-
 ---
 
 ⭐ Thanks for visiting my profile!
