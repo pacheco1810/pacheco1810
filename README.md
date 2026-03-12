@@ -21,6 +21,10 @@ Currently focused on strengthening my programming fundamentals, solving algorith
 
 ---
 
+![Angel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pacheco1810&theme=tokyo-night)
+
+---
+
 ## 📚 Learning Journey
 
 * 2024 → Started learning **HTML & CSS**
@@ -66,11 +70,6 @@ JavaScript Track – Exercism
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pacheco1810\&theme=tokyonight)
 
 ---
-## 📊 Activity Graph
-
-![Angel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pacheco1810&theme=tokyo-night)
-
----
 ## 🧠 What I'm Learning Right Now
 
 * JavaScript fundamentals
@@ -88,9 +87,6 @@ JavaScript Track – Exercism
 * Contribute to open source projects
 
 ---
-## 🐍 Contribution Snake
-
+⭐ Thanks for visiting my profile!
 ![Snake animation](https://raw.githubusercontent.com/pacheco1810/pacheco1810/output/github-contribution-grid-snake.svg)
 ---
-
-⭐ Thanks for visiting my profile!
