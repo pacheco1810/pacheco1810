@@ -59,7 +59,7 @@ JavaScript Track – Exercism
 
 ## 📈 GitHub Stats
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacheco1810\&show_icons=true\&theme=tokyonight)
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacheco1810\&show_icons=true\&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacheco1810\&layout=compact\&theme=tokyonight)
 
