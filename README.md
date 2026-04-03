@@ -64,11 +64,15 @@ JavaScript Track – Exercism
 
 ---
 
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pacheco1810\&theme=graywhite)
 
+
 ---
+
+
 ## 🧠 What I'm Learning Right Now
 
 * JavaScript fundamentals
@@ -76,7 +80,9 @@ JavaScript Track – Exercism
 * Git and version control
 * Writing cleaner and better code
 
+
 ---
+
 
 ## 🚀 Goals
 
@@ -85,7 +91,12 @@ JavaScript Track – Exercism
 * Master **JavaScript and backend development**
 * Contribute to open source projects
 
+
 ---
+
+
 ⭐ Thanks for visiting my profile!
 ![Snake animation](https://raw.githubusercontent.com/pacheco1810/pacheco1810/output/github-contribution-grid-snake.svg)
+
+
 ---
