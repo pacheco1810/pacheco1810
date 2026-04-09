@@ -91,6 +91,19 @@ JavaScript Track – Exercism
 * Master **JavaScript and backend development**
 * Contribute to open source projects
 
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-andrei-esp%C3%ADritu-pacheco-22511a209" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pacheco1810" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
