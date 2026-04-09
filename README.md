@@ -15,8 +15,25 @@ Currently focused on strengthening my programming fundamentals, solving algorith
 
 ## 🛠️ Technologies I'm Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+<p align="center">
+  <a target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />&nbsp;
+  </a>&nbsp;&nbsp;
+  <a target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />&nbsp;
+  </a>&nbsp;&nbsp;
+  <a target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />&nbsp;
+  </a>&nbsp;&nbsp;
+  <a target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />&nbsp;
+  </a>&nbsp;&nbsp;
+  <a target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />&nbsp;
+  </a>&nbsp;&nbsp;
+  <a target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;
+  </a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -58,7 +75,6 @@ JavaScript Track – Exercism
 ---
 
 ## 📈 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pacheco1810&show_icons=true&theme=graywhite&hide_title=true%20Stats&hide=issues)
 
 
@@ -68,7 +84,6 @@ JavaScript Track – Exercism
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pacheco1810\&theme=graywhite)
-
 
 ---
 
