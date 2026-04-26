@@ -82,7 +82,7 @@ JavaScript Track – Exercism
 
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=pacheco1810\&theme=graywhite)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pacheco1810&theme=graywhite)
 
 ---
 
