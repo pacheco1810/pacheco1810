@@ -70,7 +70,8 @@ JavaScript Track – Exercism
 ---
 ## 📂 Current Practice Repositories
  **javascript-practice** → Algorithms, exercises and coding practice
-
+ 
+**dom-exercises** → Hands-on projects focused on DOM manipulation and dynamic user interactions
 
 ---
 
