@@ -1,6 +1,6 @@
 ![Banner](./profile-banner.png)
 
-# Hii!! 👋 I'm Angel Andrei Espiritu Pacheco
+# Hello!! 👋 I'm Angel Andrei Espiritu Pacheco
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pacheco1810&color=blue)
 
